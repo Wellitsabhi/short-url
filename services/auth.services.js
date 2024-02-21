@@ -1,3 +1,4 @@
+//  This version is , stateful tokens, Cons- on every refresh, user get logged out
 const sessionIdToUserMap = new Map();
 
 function setUser(id,user){
